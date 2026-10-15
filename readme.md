@@ -30,7 +30,7 @@ The dashboard brings key performance indicators (KPIs) and interactive visualiza
 | Total Sales | 515K |
 | Total Profit | 60K |
 | Sum of Total Orders | 653K |
-| Total Quantity | 53K |
+| Total Quantity | 53 |
 | Average Discount | 8% |
 
 ## 📈 Dashboard Visualizations
